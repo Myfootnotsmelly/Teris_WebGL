@@ -14,4 +14,4 @@
 ↓：下移
 
 
-url:https://myfootnotsmelly.github.io/Teris_WebGL/Tetris/tetris
+进入游戏:https://myfootnotsmelly.github.io/Teris_WebGL/Tetris/tetris
