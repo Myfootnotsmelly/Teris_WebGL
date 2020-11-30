@@ -12,3 +12,6 @@
 →：右移
 
 ↓：下移
+
+
+url:https://myfootnotsmelly.github.io/Teris_WebGL/Tetris/tetris
